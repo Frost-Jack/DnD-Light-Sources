@@ -26,5 +26,7 @@
       "system": "dnd5e",
       "flags": {}
     }
-  ]
+  ],
+  "manifest": "https://github.com/Frost-Jack/DnD-Light-Sources/releases/download/latest/module.json",
+  "download": "https://github.com/Frost-Jack/DnD-Light-Sources/releases/download/latest/module.zip"
 }
